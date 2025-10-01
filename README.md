@@ -26,7 +26,7 @@ ________________________________________________________________________________
 🚀 How to Run the Project
 
 1. Clone this repository:
-   git clone https://github.com/your-username/breast-cancer-logistic-regression.git
+   git clone https://github.com/jiggsnoway/Breast-Cancer-Classification-Using-Logistic-Regression.git
    cd breast-cancer-logistic-regression
 
 2. Create a virtual environment and activate it:
@@ -59,5 +59,6 @@ ________________________________________________________________________________
 📜 License
 
 This project is open-source for learning purposes.
+
 
 
